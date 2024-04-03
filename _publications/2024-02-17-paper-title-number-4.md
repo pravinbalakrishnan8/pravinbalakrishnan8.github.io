@@ -1,5 +1,7 @@
 ---
-title: "Paper Title Number 4"
+title: "Anuar, A. M. & Balakrishnan, P. (2022). (Re)territorialising the field of
+Comparative and International Education in Malaysia: Adventures in
+cartography through the fisher, the weaver and the shadow-puppeteer. In F. Salajan & T.D. Jules. Comparative and International Education (Re)Assembled. Bloomsbury Publishing."
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about fixing template issue #693.'
