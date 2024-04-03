@@ -1,12 +1,11 @@
 ---
-title: "Paper Title Number 2"
+title: "ESD in Malaysia"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+excerpt: 'This chapter explores the challenges of, and strategies for, the implementation of ESD in Malaysia.'
+date: 2021-10-01
+venue: 'IBE on curriculum, learning, and assessment'
+paperurl: ''
+citation: 'Balakrishnan, P. (2021). ESD in Malaysia. IBE on curriculum, learning, and assessment, 261.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The need for education for sustainable development (ESD) in Malaysia today is even greater than ever, because the country continues to face burgeoning environmental challenges. However, ESD has not been clearly spelled out in the education landscape to date. This chapter explores the challenges of, and strategies for, the implementation of ESD in Malaysia. It draws on both my personal experience as a teacher and on analysis of documents. Fifteen existing studies provided insights into implementation of ESD in Malaysia. Their analysis was supported by a document analysis of the Malaysian Education Blueprint, which is a key document in the Malaysian education system. The findings revealed three challenges: the dominating role of examinations; the top-down nature of the education system; and student outcomes. All reflect systemic gaps in ESD. In light of these challenges, the chapter proposes three strategies to use in pushing for ESD: empowering teachers to be ESD drivers; tailoring ESD to fit into the Malaysian education context; and broadening the existing Sustainable School Environment Award (SLAAS) program. The chapter concludes that although radical transformation of education is essential for ideal ESD to take place, the three strategies could enable ESD to thrive to a certain extent even in the current rigid and exam-dominated Malaysian education system.
