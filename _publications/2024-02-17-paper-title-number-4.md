@@ -6,8 +6,8 @@ permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper presents our evolving attempt to map the field of CIE in Malaysia by reflecting on our experiences and findings in the ‘CIE in Malaysia’ project'
 date: "2022-10-10"
 venue: 'F. Salajan & T.D. Jules. Comparative and International Education (Re)Assembled. Bloomsbury Publishing'
-paperurl: 'https://keele-repository.worktribe.com/preview/455255/AnuarBalakrishnan_Fisher%20Weaver%20Shadowpuppateer.pdf'
-citation: 'Yme, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+paperurl: ''
+citation: 'Anuar, A. M., & Balakrishnan, P. (2022). territorialising the field of Comparative and International Education in Malaysia: Adventures in cartography through the fisher, the weaver and the shadow-puppeteer. Comparative and International Education (Re) Assembled: Examining a Scholarly Field through an Assemblage Theory Lens, 113-126.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+We present here our evolving attempt to map the field of CIE in Malaysia by reflecting on our experiences and findings in the ‘CIE in Malaysia’ project. Imbibing the metaphorical and biographical spirit of Silova & Auld (2020), we (re)territorialise the field of CIE in Malaysia through the bricolage of three vernacular figures: the fisher, the weaver and the shadow-puppeteer. We first articulate our intellectual trajectories as fishermen-in-training, attempting to capture elements of CIE that become the impetus for this project. We subsequently detail transnational social connections that enable our performance as weavers of CIE in Malaysia. As shadow-puppeteers, we then address the potency of the project’s dissemination through social media, questions of language and the political dimension of knowledge production in Malaysia. Overall, we offer this chapter as a depiction of our public scholarship project—as a meta-assemblage—that reifies the field of CIE locally.
