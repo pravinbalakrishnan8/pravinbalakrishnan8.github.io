@@ -1,5 +1,5 @@
 ---
-title: "(Re)territorialising the field of Comparative and International Education in Malaysia: Adventures in
+title: "Reterritorialising the field of Comparative and International Education in Malaysia: Adventures in
 cartography through the fisher, the weaver and the shadow-puppeteer."
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
