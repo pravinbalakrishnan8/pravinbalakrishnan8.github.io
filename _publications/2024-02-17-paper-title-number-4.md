@@ -1,13 +1,12 @@
 ---
-title: "Anuar, A. M. & Balakrishnan, P. (2022). (Re)territorialising the field of
-Comparative and International Education in Malaysia: Adventures in
-cartography through the fisher, the weaver and the shadow-puppeteer. In F. Salajan & T.D. Jules. Comparative and International Education (Re)Assembled. Bloomsbury Publishing."
+title: "(Re)territorialising the field of Comparative and International Education in Malaysia: Adventures in
+cartography through the fisher, the weaver and the shadow-puppeteer."
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+excerpt: 'This paper presents our evolving attempt to map the field of CIE in Malaysia by reflecting on our experiences and findings in the ‘CIE in Malaysia’ project'
+date: 2022
+venue: 'F. Salajan & T.D. Jules. Comparative and International Education (Re)Assembled. Bloomsbury Publishing'
+paperurl: 'https://keele-repository.worktribe.com/preview/455255/AnuarBalakrishnan_Fisher%20Weaver%20Shadowpuppateer.pdf'
 citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
 ---
 
