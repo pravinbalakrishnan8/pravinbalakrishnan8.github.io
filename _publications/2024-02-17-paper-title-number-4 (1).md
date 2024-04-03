@@ -3,7 +3,7 @@ title: "A discourse analysis of the influence of international organizations in 
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'This paper is about the influence of international organizations on the Malaysian national education system.'
-date: 2024-02-17
+date: 2019-02-17
 venue: 'Education en débats: analyse comparée'
 paperurl: ''
 citation: 'Balakrishnan, P. (2019). A discourse analysis of the influence of international organizations in Malaysia through complexity theory, P. L’éducation en débats: analyse comparée, 9, 6-19.'
